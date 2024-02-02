@@ -1,0 +1,3 @@
+#define VERBOSE_LOW 0
+#define VERBOSE_SYNTH 1
+#define VERBOSE_FULL 2
